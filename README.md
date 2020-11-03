@@ -1,13 +1,5 @@
-sélectionnés# Template pour : Quêtes  PHP Cookies & Sessions
+Création de session à partir d'un template HTML/CSS. 
+* identification simple avec seulement un nom d'utilisateur (affiché ensuite dans le header) & possibilité de se délogger
+* panier stocké dans la session de l’utilisateur et est affiché sur la page "Panier" avec quantités gérées.
+* navigation orientée en fonction du statut du visiteur (certaines pages cachées après identification et inversement) 
 
-Ce Template html va te permettre de réaliser ta quête sur la gestion des cookies et des sessions avec PHP.
-
-Sont inclus :
-
-* la page de connexion,
-* la page des produits disponibles a l'achat,
-* la page panier, affichant à partir des cookies les produits sélectionnés par l'utilisateur.
-
-Tu n'as que du script PHP à fournir !
-
-Après, si l'envie te prend de refondre le CSS, nous ne ferons rien pour t'en empêcher !
